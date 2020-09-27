@@ -39,7 +39,7 @@ A programming student trying different things.
 
 ---
 
-### :zap: Recent Activity
+#### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -50,7 +50,7 @@ A programming student trying different things.
 
 <details>
 
-  <summary>:zap: <h4>Github Stats</h4></summary>
+  #### :zap: Github Stats
 
   <img align="left" alt="rmi-01's Github Stats" src="https://github-readme-stats.rmi-01.vercel.app/api?username=rmi-01&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars,issues"/>
 
