@@ -40,6 +40,8 @@ A programming student trying different things.
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
 
+<br/>
+
 ---
 
 <details>
@@ -48,6 +50,8 @@ A programming student trying different things.
   <img align="left" alt="rmi-01's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rmi-01&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars,issues" />
 
 </details>
+
+<br/>
 
 <details>
   <summary>:zap: Languages Used</summary>
