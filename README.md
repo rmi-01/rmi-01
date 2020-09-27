@@ -39,16 +39,25 @@ A programming student trying different things.
 
 ---
 
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<br/>
+
+---
+
 <details>
 
-  <summary>:zap: <strong>Github Stats</strong></summary>
+  <summary>:zap: <h4>Github Stats</h4></summary>
 
   <img align="left" alt="rmi-01's Github Stats" src="https://github-readme-stats.rmi-01.vercel.app/api?username=rmi-01&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars,issues"/>
 
 </details>
 
 <details>
-  <summary>:zap: <strong>Languages Used</strong></summary>
+  <summary>:zap: <h4>Languages Used</h4></summary>
 
   <img align="left" alt="rmi-01's Github Stats" src="https://github-readme-stats.rmi-01.vercel.app/api/top-langs/?username=rmi-01&layout=compact&hide_border=true" />
   
