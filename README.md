@@ -39,15 +39,6 @@ A programming student trying different things.
 
 ---
 
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<br/>
-
----
-
 <details>
 
   <summary>:zap: <strong>Github Stats</strong></summary>
