@@ -4,21 +4,16 @@ A programming student trying different things.
 
 #### Connect with me:
 
-<!-- <a href="mailto:rmibrahim00@gmail.com" target="_blank"> -->
   [<img align="left" width="22px" alt="rmi-01 | Gmail" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>](mailto:rmibrahim00@gmail.com)
-<!-- </a> -->
-<!-- <a  href="https://www.linkedin.com/in/rana-muhammad-ibrahim/" target="_blank"> -->
+
   [<img align="left" width="22px" alt="rmi-01 | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/rana-muhammad-ibrahim/)
-<!-- </a> -->
-<!-- <a href="https://github.com/rmi-01" target="_blank"> -->
+
   [<img align="left" width="22px" alt="rmi-01 | Github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>](https://github.com/rmi-01)
-<!-- </a> -->
-<!-- <a href="https://www.facebook.com/rmibrahim" target="_blank"> -->
+
   [<img align="left" width="22px" alt="rmi-01 | Facebook" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>](https://www.facebook.com/rmibrahim)
-<!-- </a> -->
-<!-- <a href="https://www.instagram.com/ibrahimm1.0" target="_blank"> -->
+
+
   [<img align="left" width="22px" alt="rmi-01 | Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>](https://www.instagram.com/ibrahimm1.0)
-<!-- </a> -->
 
 <br />
 
@@ -48,13 +43,14 @@ A programming student trying different things.
 
   <summary>:zap: <strong>Github Stats</strong></summary>
 
-  <img align="left" alt="rmi-01's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rmi-01&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars,issues"/>
+  <img align="left" alt="rmi-01's Github Stats" src="https://github-readme-stats.rmi-01.vercel.app/api?username=rmi-01&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars,issues"/>
 
 </details>
 
 <details>
   <summary>:zap: <strong>Languages Used</strong></summary>
 
-  <img align="left" alt="rmi-01's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmi-01&layout=compact&hide_border=true" />
+  <img align="left" alt="rmi-01's Github Stats" src="https://github-readme-stats.rmi-01.vercel.app/api/top-langs/?username=rmi-01&layout=compact&hide_border=true" />
   
 </details>
+<!-- 2d98f59a934be8ab04464bb0220c345973b76a1a -->
