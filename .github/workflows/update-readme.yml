@@ -1,8 +1,8 @@
-name: GitHub - Activity - Readme
+name: GitHub - Latest - Activity
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "5 * * * *"
   workflow_dispatch:
 
 jobs:
