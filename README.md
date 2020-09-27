@@ -31,10 +31,30 @@ A programming student trying different things.
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+
+<br/>
 
 #### Currently learning:
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
+
+<br/>
+<br/>
+
+---
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="rmi-01's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rmi-01&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars,issues" />
+
+</details>
+
+<details>
+  <summary>:zap: Languages Used</summary>
+
+  <img align="left" alt="rmi-01's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmi-01&layout=compact&hide_border=true" />
+  
+</details>
