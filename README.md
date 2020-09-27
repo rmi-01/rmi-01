@@ -8,7 +8,7 @@ A programming student trying different things.
   <img align="left" width="22px" alt="rmi-01 | Gmail" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
 </a>
 <a  href="https://www.linkedin.com/in/rana-muhammad-ibrahim/" target="_blank">
-  <img align="left" width="22px" alt="rmi-01 | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+  <img align="left" width="22px" alt="rmi-01 | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>
 </a>
 <a href="https://github.com/rmi-01" target="_blank">
   <img align="left" width="22px" alt="rmi-01 | Github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>
