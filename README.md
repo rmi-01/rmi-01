@@ -45,7 +45,7 @@ A programming student trying different things.
 ---
 
 <details>
-  <summary><h4>:zap: Github Stats</h4></summary>
+  <summary>:zap: <strong>Github Stats</strong></summary>
 
   <img align="left" alt="rmi-01's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rmi-01&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars,issues" />
 
@@ -54,7 +54,7 @@ A programming student trying different things.
 <br/>
 
 <details>
-  <summary><h4>:zap: Languages Used</h4></summary>
+  <summary>:zap: <strong>Languages Used</strong></summary>
 
   <img align="left" alt="rmi-01's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmi-01&layout=compact&hide_border=true" />
   
