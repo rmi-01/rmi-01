@@ -39,7 +39,7 @@ A programming student trying different things.
 
 ---
 
-#### :zap: Recent Activity
+### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -50,16 +50,16 @@ A programming student trying different things.
 
 <details>
 
-  #### :zap: Github Stats
+  <summary>:zap: <strong>Github Stats</strong></summary>
 
-  <img align="left" alt="rmi-01's Github Stats" src="https://github-readme-stats.rmi-01.vercel.app/api?username=rmi-01&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars,issues"/>
+  <img align="center" alt="rmi-01's Github Stats" src="https://github-readme-stats.rmi-01.vercel.app/api?username=rmi-01&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars,issues"/>
 
 </details>
 
 <details>
-  <summary>:zap: <h4>Languages Used</h4></summary>
+  <summary>:zap: <strong>Languages Used</strong></summary>
 
-  <img align="left" alt="rmi-01's Github Stats" src="https://github-readme-stats.rmi-01.vercel.app/api/top-langs/?username=rmi-01&layout=compact&hide_border=true" />
+  <img align="center" alt="rmi-01's Github Stats" src="https://github-readme-stats.rmi-01.vercel.app/api/top-langs/?username=rmi-01&layout=compact&hide_border=true" />
   
 </details>
 <!-- 2d98f59a934be8ab04464bb0220c345973b76a1a -->
