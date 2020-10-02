@@ -53,4 +53,12 @@ A programming student trying different things.
   <img align="center" alt="rmi-01's Github Stats" src="https://github-readme-stats.rmi-01.vercel.app/api/top-langs/?username=rmi-01&layout=compact&hide_border=true" />
   
 </details>
+
+<details>
+  <summary>:zap: <strong>Last Week Activity</strong></summary>
+
+  <img align="center" alt="rmi-01's Github Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=rmi01&hide_border=true" />
+  
+</details>
+
 <!-- 2d98f59a934be8ab04464bb0220c345973b76a1a -->
