@@ -43,22 +43,22 @@ A programming student trying different things.
 
   <summary>:zap: <strong>Github Stats</strong></summary>
 
-  <img height="180em" alt="Ibrahim's Github Stats" src="https://github-readme-stats.rmi-01.vercel.app/api?username=rmi-01&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars,issues"/>
-  <img height="180em" alt="Ibrahim's Language Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rmi-01&layout=compact&langs_count=8"/>
+  <img height="120em" alt="Ibrahim's Github Stats" src="https://github-readme-stats.rmi-01.vercel.app/api?username=rmi-01&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="120em" alt="Ibrahim's Language Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rmi-01&layout=compact&langs_count=8"/>
 
 </details>
 
 <details>
   <summary>:zap: <strong>Languages Used</strong></summary>
 
-  <img align="center" alt="rmi-01's Languages Stats" src="https://github-readme-stats.rmi-01.vercel.app/api/top-langs/?username=rmi-01&layout=compact&hide_border=true" />
+  <img height="120em" align="center" alt="rmi-01's Languages Stats" src="https://github-readme-stats.rmi-01.vercel.app/api/top-langs/?username=rmi-01&layout=compact&hide_border=true" />
   
 </details>
 
 <details>
   <summary>:zap: <strong>Last Week Activity</strong></summary>
 
-  <img align="center" alt="rmi-01's Last Week Activity" src="https://github-readme-stats.vercel.app/api/wakatime?username=rmi01&hide_border=true" />
+  <img height="120em" align="center" alt="rmi-01's Last Week Activity" src="https://github-readme-stats.vercel.app/api/wakatime?username=rmi01&hide_border=true" />
   
 </details>
 
