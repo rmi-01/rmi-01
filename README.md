@@ -41,7 +41,7 @@ A programming student trying different things.
 
 <details>
 
-  <summary>:zap: <strong>Github Stats</strong></summary>
+  <summary>:zap: <strong>GitHub Stats</strong></summary>
 
   <img alt="Ibrahim's Github Stats" src="https://github-readme-stats-rmi-01.vercel.app/api?username=rmi-01&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
 
@@ -62,7 +62,7 @@ A programming student trying different things.
 </details>
 
 <details>
-  <summary>:zap: <strong>Github Streak</strong></summary>
+  <summary>:zap: <strong>GitHub Streak</strong></summary>
 
   <img align="center" alt="Ibrahim's GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=rmi-01&show_icons=true&locale=en&layout=demo&theme=tokyonight&hide_border=true" />
   
