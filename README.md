@@ -43,21 +43,21 @@ A programming student trying different things.
 
   <summary>:zap: <strong>Github Stats</strong></summary>
 
-  <img height="175em" alt="Ibrahim's Github Stats" src="https://github-readme-stats-rmi-01.vercel.app/api?username=rmi-01&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img alt="Ibrahim's Github Stats" src="https://github-readme-stats-rmi-01.vercel.app/api?username=rmi-01&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"/>
 
 </details>
 
 <details>
   <summary>:zap: <strong>Languages Used</strong></summary>
 
-  <img height="150em" align="center" alt="rmi-01's Languages Stats" src="https://github-readme-stats.rmi-01.vercel.app/api/top-langs/?username=rmi-01&layout=compact&hide_border=true" />
+  <img align="center" alt="rmi-01's Languages Stats" src="https://github-readme-stats.rmi-01.vercel.app/api/top-langs/?username=rmi-01&layout=compact&hide_border=true" />
   
 </details>
 
 <details>
   <summary>:zap: <strong>Last Week Activity</strong></summary>
 
-  <img height="175em" align="center" alt="rmi-01's Last Week Activity" src="https://github-readme-stats.vercel.app/api/wakatime?username=rmi01&hide_border=true" />
+  <img align="center" alt="rmi-01's Last Week Activity" src="https://github-readme-stats.vercel.app/api/wakatime?username=rmi01&hide_border=true" />
   
 </details>
 
