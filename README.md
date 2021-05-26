@@ -43,8 +43,8 @@ A programming student trying different things.
 
   <summary>:zap: <strong>Github Stats</strong></summary>
 
-  <img alt="Ibrahim's Github Stats" src="https://github-readme-stats.rmi-01.vercel.app/api?username=rmi-01&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars,issues"/>
-  <img alt="Ibrahim's Language Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rmi-01&layout=compact&langs_count=8"/>
+  <img height="180em" alt="Ibrahim's Github Stats" src="https://github-readme-stats.rmi-01.vercel.app/api?username=rmi-01&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars,issues"/>
+  <img height="180em" alt="Ibrahim's Language Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rmi-01&layout=compact&langs_count=8"/>
 
 </details>
 
