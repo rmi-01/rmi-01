@@ -43,21 +43,21 @@ A programming student trying different things.
 
   <summary>:zap: <strong>GitHub Stats</strong></summary>
 
-  <img alt="Ibrahim's Github Stats" src="https://github-readme-stats-rmi-01.vercel.app/api?username=rmi-01&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
+  <img alt="Ibrahim's Github Stats" src="https://github-stats-rmi-01.vercel.app/api?username=rmi-01&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
 
 </details>
 
 <details>
   <summary>:zap: <strong>Languages Used</strong></summary>
 
-  <img align="center" alt="Ibrahim's Languages Stats" src="https://github-readme-stats-rmi-01.vercel.app/api/top-langs/?username=rmi-01&layout=compact&hide_border=true&theme=tokyonight" />
+  <img align="center" alt="Ibrahim's Languages Stats" src="https://github-stats-rmi-01.vercel.app/api/top-langs/?username=rmi-01&layout=compact&hide_border=true&theme=tokyonight" />
   
 </details>
 
 <details>
   <summary>:zap: <strong>Last Week Activity</strong></summary>
 
-  <img align="center" alt="Ibrahim's Last Week Activity" src="https://github-readme-stats-rmi-01.vercel.app/api/wakatime?username=rmi01&hide_border=true&theme=tokyonight" />
+  <img align="center" alt="Ibrahim's Last Week Activity" src="https://github-stats-rmi-01.vercel.app/api/wakatime?username=rmi01&hide_border=true&theme=tokyonight" />
   
 </details>
 
