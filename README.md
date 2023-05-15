@@ -67,5 +67,3 @@ A programming student trying different things.
   <img align="center" alt="Ibrahim's GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=rmi-01&show_icons=true&locale=en&layout=demo&theme=tokyonight&hide_border=true" />
   
 </details>
-
-<!-- 2d98f59a934be8ab04464bb0220c345973b76a1a -->
